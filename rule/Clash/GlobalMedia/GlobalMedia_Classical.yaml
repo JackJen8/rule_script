@@ -2066,6 +2066,6 @@ payload:
   - IP-CIDR6,2620:120:e000::/40
   - IP-CIDR6,2a00:86c0::/32
   - IP-CIDR6,2a03:5640::/32
-  - PROCESS-NAME,com.viu.pad
-  - PROCESS-NAME,com.viu.phone
-  - PROCESS-NAME,com.vuclip.viu
+#   - PROCESS-NAME,com.viu.pad
+#   - PROCESS-NAME,com.viu.phone
+#   - PROCESS-NAME,com.vuclip.viu
