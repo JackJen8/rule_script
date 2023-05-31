@@ -21,4 +21,3 @@ payload:
   - DOMAIN-SUFFIX,appsto.re
   - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,digicert.com
-#  - PROCESS-NAME,LookupViewService
